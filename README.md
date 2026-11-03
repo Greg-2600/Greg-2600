@@ -14,8 +14,8 @@ St. Louis, Missouri
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Greg-2600&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Greg-2600&layout=compact&theme=github_dark&hide_border=true&langs_count=6&bg_color=0d1117" height="165" alt="Most used languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Greg-2600&theme=github_dark" height="180" alt="GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Greg-2600&theme=github_dark" height="180" alt="Most used languages">
 </div>
 
 ## 👨‍💻 Profile
