@@ -23,7 +23,7 @@ Security, packets, unix, crypto, telephony, oxford commas, and radio.
 | Project | What it shows |
 |---|---|
 | [h4k](https://github.com/Greg-2600/h4k) | Containerized security analysis platform for authorized lab testing: recon, MITRE ATT&CK mapping, attack path scoring, SAST and SCA, fuzzing with crash triage, and local AI root cause analysis, 1,101 tests |
-| [linux_health](https://github.com/Greg-2600/linux_health) | Agentless, SSH-based Linux security assessment: 100+ checks across 24 categories, hardening score, JSON output, 334 tests |
+| [auditless](https://github.com/Greg-2600/auditless) | Agentless, SSH-based Linux security assessment: 100+ checks across 24 categories, hardening score, JSON output, 334 tests |
 
 ## Expertise
 
