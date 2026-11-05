@@ -42,6 +42,7 @@ Security, packets, unix, crypto, telephony, oxford commas, and radio.
 - LinkedIn Learning: Hands-on AI: Next-Gen Security and GRC Automation with MCP (2026), Artificial Intelligence for Cybersecurity (2026), Machine Learning with Python: Decision Trees (2026)
 - Cisco Networking Academy: CCNA, CCNP, Network Security, VoIP, Wireless Networking
 - Washington University in St. Louis: Economics
+- Oregon State University: Electrical Engineering
 
 ## Connect
 
