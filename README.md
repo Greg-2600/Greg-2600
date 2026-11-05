@@ -24,6 +24,7 @@ Security, packets, unix, crypto, telephony, oxford commas, and radio.
 |---|---|
 | [h4k](https://github.com/Greg-2600/h4k) | Containerized security analysis platform for authorized lab testing: recon, MITRE ATT&CK mapping, attack path scoring, SAST and SCA, fuzzing with crash triage, and local AI root cause analysis, 1,101 tests |
 | [auditless](https://github.com/Greg-2600/auditless) | Agentless, SSH-based Linux security assessment: 100+ checks across 24 categories, hardening score, JSON output, 334 tests |
+| [oobir](https://github.com/Greg-2600/oobir) | AI-powered stock analysis REST API: FastAPI, Docker, and a local Ollama LLM, with 44 endpoints and 420 tests (Zenodo DOI for v1.0.0) |
 
 ## Expertise
 
