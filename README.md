@@ -13,6 +13,8 @@ St. Louis, Missouri
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2600dtmf)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--3931--8799-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-3931-8799)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23966300.svg)](https://doi.org/10.5281/zenodo.23966300)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24489260.svg)](https://doi.org/10.5281/zenodo.24489260)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24489256.svg)](https://doi.org/10.5281/zenodo.24489256)
 
 </div>
 
@@ -29,8 +31,8 @@ Security, packets, unix, crypto, telephony, oxford commas, and radio.
 | Project | What it shows |
 |---|---|
 | [oobir](https://github.com/Greg-2600/oobir) | AI powered stock analysis REST API: FastAPI, Docker, and a local Ollama LLM, with 44 endpoints and 420 tests. Version 1.0.0: [https://doi.org/10.5281/zenodo.23966300](https://doi.org/10.5281/zenodo.23966300) |
-| [auditless](https://github.com/Greg-2600/auditless) | Agentless, SSH based Linux security assessment: 100+ checks across 24 categories, hardening score, and JSON reports, with nothing to install on the target |
-| [h4k](https://github.com/Greg-2600/h4k) | Containerized security analysis platform for authorized lab testing: recon, MITRE ATT&CK mapping, fuzzing, SAST, SCA, and local AI triage, 1,367 tests |
+| [auditless](https://github.com/Greg-2600/auditless) | Agentless, SSH based Linux security assessment: 100+ checks across 24 categories, hardening score, and JSON reports, with nothing to install on the target. Version 4.0.1: [https://doi.org/10.5281/zenodo.24489260](https://doi.org/10.5281/zenodo.24489260) |
+| [h4k](https://github.com/Greg-2600/h4k) | Containerized security analysis platform for authorized lab testing: recon, MITRE ATT&CK mapping, fuzzing, SAST, SCA, and local AI triage, 1,367 tests. Version 1.0.0: [https://doi.org/10.5281/zenodo.24489256](https://doi.org/10.5281/zenodo.24489256) |
 | [netweather](https://github.com/Greg-2600/netweather) | Self hosted internet weather station in Go: a single hardened container that probes the public internet and classifies whether an outage is widespread, limited to a service, or only on your connection |
 
 ## Expertise
