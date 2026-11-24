@@ -15,6 +15,7 @@ St. Louis, Missouri
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23966300.svg)](https://doi.org/10.5281/zenodo.23966300)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24489260.svg)](https://doi.org/10.5281/zenodo.24489260)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24489256.svg)](https://doi.org/10.5281/zenodo.24489256)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24503940.svg)](https://doi.org/10.5281/zenodo.24503940)
 
 </div>
 
@@ -33,7 +34,7 @@ Security, packets, unix, crypto, telephony, oxford commas, and radio.
 | [oobir](https://github.com/Greg-2600/oobir) | AI powered stock analysis REST API: FastAPI, Docker, and a local Ollama LLM, with 44 endpoints and 420 tests. Version 1.0.0: [https://doi.org/10.5281/zenodo.23966300](https://doi.org/10.5281/zenodo.23966300) |
 | [auditless](https://github.com/Greg-2600/auditless) | Agentless, SSH based Linux security assessment: 100+ checks across 24 categories, hardening score, and JSON reports, with nothing to install on the target. Version 4.0.1: [https://doi.org/10.5281/zenodo.24489260](https://doi.org/10.5281/zenodo.24489260) |
 | [h4k](https://github.com/Greg-2600/h4k) | Containerized security analysis platform for authorized lab testing: recon, MITRE ATT&CK mapping, fuzzing, SAST, SCA, and local AI triage, 1,367 tests. Version 1.0.0: [https://doi.org/10.5281/zenodo.24489256](https://doi.org/10.5281/zenodo.24489256) |
-| [netweather](https://github.com/Greg-2600/netweather) | Self hosted internet weather station in Go: a single hardened container that probes the public internet and classifies whether an outage is widespread, limited to a service, or only on your connection |
+| [netweather](https://github.com/Greg-2600/netweather) | Self hosted internet weather station in Go: a single hardened container that probes the public internet and classifies whether an outage is widespread, limited to a service, or only on your connection. Version 1.0.0: [https://doi.org/10.5281/zenodo.24503940](https://doi.org/10.5281/zenodo.24503940) |
 
 ## Expertise
 
